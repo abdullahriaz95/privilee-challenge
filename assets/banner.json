@@ -1,0 +1,34 @@
+[
+    {
+        "image": "https://firebasestorage.googleapis.com/v0/b/privilee-sta.appspot.com/o/categories%2Fpool.png?alt=media&token=088a0ee1-7b00-43b3-8106-4aa57c2347c4",
+        "type": "hotel"
+    },
+    {
+        "image": "https://firebasestorage.googleapis.com/v0/b/privilee-sta.appspot.com/o/categories%2Fgym.png?alt=media&token=a0614d88-8ec7-4607-9be5-51c10dcb0f5e",
+        "type": "gym"
+    },
+    {
+        "image": "https://firebasestorage.googleapis.com/v0/b/privilee-sta.appspot.com/o/categories%2Fbar.png?alt=media&token=53aa1d81-4162-485b-83e3-f4228e762fe7",
+        "type": "bar"
+    },
+    {
+        "image": "https://firebasestorage.googleapis.com/v0/b/privilee-sta.appspot.com/o/categories%2Frestaurant.png?alt=media&token=6ce79388-6abe-4a17-9a9a-55688658dba9",
+        "type": "restaurant"
+    },
+    {
+        "image": "https://firebasestorage.googleapis.com/v0/b/privilee-sta.appspot.com/o/categories%2Fspa.png?alt=media&token=40a9aa7e-47ca-4904-a1e4-4fdad42b8419",
+        "type": "spa"
+    },
+    {
+        "image": "https://firebasestorage.googleapis.com/v0/b/privilee-sta.appspot.com/o/categories%2Fkids_club.png?alt=media&token=d0e61af0-7df2-4fb4-b97e-d34d433913e8",
+        "type": "kids_club"
+    },
+    {
+        "image": "https://firebasestorage.googleapis.com/v0/b/privilee-sta.appspot.com/o/categories%2Ftennis_squash_court.png?alt=media&token=b9252006-f677-41ce-a403-f31a8a3c8bb1",
+        "type": "tennis_squash_court"
+    },
+    {
+        "image": "https://firebasestorage.googleapis.com/v0/b/privilee-sta.appspot.com/o/categories%2Fwaterpark.jpg?alt=media&token=73f28847-b4bf-432f-92da-c016e6bb43ca",
+        "type": "waterpark"
+    }
+]
